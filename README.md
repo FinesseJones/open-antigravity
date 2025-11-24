@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/e4629842-2823-492b-8837-681ef5783803" width="200" />
+  <img src=".github/assets/logo.svg" width="200" />
   <br />
   <h1>Open-Antigravity </h1>
   
