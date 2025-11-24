@@ -1,1 +1,4 @@
-settings.json
+{
+  "theme": "Default",
+  "selectedAuthType": "oauth-personal"
+}
