@@ -156,10 +156,9 @@ We believe this ambitious project can only be realized as a community. We welcom
 
 
 
-
 ## 📜 Disclaimer
 
-This tool is for educational and personal use only. It is not intended for production use. The developers are not responsible for any damage caused by this tool.
+This tool has no relation with official version of google's antigravity. It is for educational and personal use only. It is not intended for production use. The developers are not responsible for any damage caused by this tool.
 
 ## 📜 License
 
