@@ -148,6 +148,15 @@ We believe this ambitious project can only be realized as a community. We welcom
 - **Look at the [open issues](https://github.com/ishandutta2007/open-antigravity/issues)** to find a task that interests you.
 - **Join our [Discord server](https://discord.gg/123456789)** to chat with the team and other contributors.
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-antigravity&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-antigravity&type=date&legend=top-left)
+
+
+
+
+
 ## 📜 Disclaimer
 
 This tool is for educational and personal use only. It is not intended for production use. The developers are not responsible for any damage caused by this tool.
