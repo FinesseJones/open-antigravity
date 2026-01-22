@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  mitmserver:
+    build: ./mitmserver
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./mitmserver:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    command: npm start
